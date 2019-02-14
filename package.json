@@ -1,7 +1,7 @@
 {
   "name": "insight-sexcoin-api",
   "description": "A Sexcoin blockchain REST and web socket API service for Sexcore Node.",
-  "version": "0.4.62",
+  "version": "0.4.621",
   "repository": "git://github.com/Sxcmarket/insight-sexcoin-api.git",
   "contributors": [
     {
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "sexcore-lib": "git://github.com/sxcmarket/sexcore-lib.git",
-    "sexcore-message": "git://github.com/sxcmarket/sexcore-message.git",
+    "sexcore-lib": "^0.13.2",
+    "sexcore-message": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
