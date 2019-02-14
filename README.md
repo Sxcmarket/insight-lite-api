@@ -1,3 +1,7 @@
+
+[![NPM Package](https://img.shields.io/npm/v/insight-sexcoin-api.svg?style=flat-square)](https://www.npmjs.org/package/insight-sexcoin-api)
+[![Build Status](https://travis-ci.org/Sxcmarket/insight-sexcoin-api.svg?branch=master)](https://travis-ci.org/Sxcmarket/insight-sexcoin-api)
+
 # Insight API
 
 A Litecoin blockchain REST and web socket API service for [Litecore Node](https://github.com/litecoin-project/litecore-node).
