@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-api",
-  "description": "A Litecoin blockchain REST and web socket API service for Litecore Node.",
-  "version": "0.4.4",
-  "repository": "git://github.com/litecoin-project/insight-lite-api.git",
+  "name": "insight-sexcoin-api",
+  "description": "A Sexcoin blockchain REST and web socket API service for Sexcore Node.",
+  "version": "0.4.61",
+  "repository": "git://github.com/Sxcmarket/insight-sexcoin-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/litecoin-project/insight-lite-api/issues"
+    "url": "https://github.com/Sxcmarket/insight-sexcoin-api/issues"
   },
-  "homepage": "https://github.com/litecoin-project/insight-lite-api",
+  "homepage": "https://github.com/Sxcmarket/insight-sexcoin-api.git",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "litecoin api",
+    "sexcoin api",
     "blockchain api",
     "json",
-    "litecore"
+    "sexcore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "litecore-lib": "^0.13.22",
-    "litecore-message": "^1.0.5",
+    "sexcore-lib": "git://github.com/sxcmarket/sexcore-lib.git",
+    "sexcore-message": "git://github.com/sxcmarket/sexcore-message.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
