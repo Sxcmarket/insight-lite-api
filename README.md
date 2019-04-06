@@ -22,7 +22,7 @@ The API endpoints will be available by default at: `http://localhost:3001/insigh
 
 ## Prerequisites
 
-- [Sex`core Node 3.x](https://github.com/Sxcmarket/sexcore-node)
+- [Sexcore Node 3.x](https://github.com/Sxcmarket/sexcore-node)
 
 **Note:** You can use an existing Sexcoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
 
